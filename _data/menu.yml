@@ -1,0 +1,75 @@
+- text: HOME
+  url: /
+- text: EXPEDITIONS
+  url: /expeditions/
+  subitems:
+    - text: MALAWI 2019
+      url: /expeditions/malawi-2019/
+    - text: BOLIVIA 2017
+      url: /expeditions/bolivia/
+    - text: AUSTRIA 2015
+      url: /expeditions/austria/
+    - text: MALAWI 2014
+      url: /expeditions/malawi/
+    - text: CUBA 2012
+      url: /expeditions/cuba/
+    - text: UKRAINE 2011
+      url: /expeditions/ukraine/
+    - text: CHILE 2010
+      url: /expeditions/chile/
+    - text: POLAND 2008
+      url: /expeditions/poland/
+    - text: ZAMBIA 2007
+      url: /expeditions/zambia/
+    - text: NORWAY 2006
+      url: /expeditions/norway/
+    - text: PYRENEES 2004
+      url: /expeditions/pyrenees/
+    - text: PERU 2003
+      url: /expeditions/peru/
+    - text: ROMANIA 2002
+      url: /expeditions/romania/
+    - text: INDIA 2001
+      url: /expeditions/india/
+    - text: MONGOLIA 1999
+      url: /expeditions/mongolia/
+    - text: KENYA 1997
+      url: /expeditions/kenya/
+    - text: ECUADOR 1995
+      url: /expeditions/ecuador/
+    - text: LESOTHO 1993
+      url: /expeditions/lesotho/
+- text: LOCAL EVENTS
+  url: /local-events/
+  subitems:
+    - text: 20th Anniversary Toposcope
+      url: /local-events/20th-anniversary-toposcope/
+    - text: MEMBER EVENTS
+      url: /local-events/member-events/
+    - text: TOWER TROPHY
+      url: /local-events/tower-trophy/
+    - text: SOLAR ECLIPSE 1999
+      url: /local-events/solar-eclipse/
+    - text: OCEAN BOUNTY 1996 & 1998
+      url: /local-events/ocean-bounty/
+    - text: ISLE OF SKYE 1994
+      url: /local-events/isle-of-skye-1994/
+- text: RESOURCES
+  url: /resources/
+- text: BECOME A MEMBER
+  url: /become-a-member/
+- text: CONTACT
+  url: /contact/
+# - text: First menu
+#   url: /first-menu/
+#   subitems:
+#     - text: First menu (sub)
+#       url: /first-menu/first-menu-sub/
+#       subitems:
+#         - text: First menu (sub-sub)
+#           url: /first-menu/first-menu-sub/first-menu-sub-sub/
+# - text: Second menu
+#   url: /second-menu/
+#   subitems:
+#     - text: Second menu (sub)
+#       url: /second-menu/second-menu-sub/

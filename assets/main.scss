@@ -1,0 +1,66 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+.site-header {
+  border-top: none;
+margin-bottom: 60px;
+border-bottom: none;
+}
+
+.site-nav {
+    float: left;
+    line-height: 34px;
+}
+
+.wrapper{
+  min-height: 70px;
+}
+
+nav{
+ max-width: calc(800px - (30px * 2));
+  margin: auto;
+  position: relative;
+  float: left;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul {
+  // border: 1px solid lightgrey;
+  width: 100%;
+  text-align: center;
+  padding: 0.1em;
+}
+
+nav ul ul {
+  // background-color: white;
+  position: absolute;
+  left: 0;
+}
+
+nav li {
+  display: inline-block;
+  padding: 0.1em;
+  margin: 0.1em;
+  text-transform: uppercase;
+  font-weight: normal;
+}
+nav ul ul li {
+  background: lightgrey;
+}
+nav ul ul li:nth-child(odd) { background: #33FF99; }
+
+nav ul ul li a{
+  font-size: 12px;
+}
+
+nav ul ul li:hover{
+    background-color: white;
+  font-size: 12px;
+}
+
+.page-content {
+  margin-top: 4em;
+}
