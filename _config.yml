@@ -25,7 +25,7 @@ url: "https://www.borders-exploration-group.org.uk" # the base hostname & protoc
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-feed
+  - jekyll-sitemap
 
 google_analytics: UA-1089638-5
 
