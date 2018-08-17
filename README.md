@@ -5,3 +5,13 @@ Hosted on [GitHub Pages](https://pages.github.com/) using [Jekyll](https://jekyl
 
 The current list of planned improvements for this site:
 * Change navigation from absolute positions to relative (to remove forced top spacing)
+* Add in Google Fonts for H1
+* Add in content from old sidebar
+* Change DNS to create custom domain
+* Add the BEG logo
+* Verify WMT
+* Clear out unlinked files
+* Move all documentation to the correct folder, move images to the correct folder
+* Tidy every page
+* Rewrite documentation
+* Delete old site
