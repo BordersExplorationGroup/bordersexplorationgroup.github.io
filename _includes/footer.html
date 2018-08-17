@@ -14,6 +14,16 @@
     attribution: 'Map data © OpenStreetMap contributors'
     }).addTo(map);
 
+
+
+    L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+    maxZoom: 18
+    // ,
+    // id: 'mapbox.streets',
+    // accessToken: 'your.mapbox.access.token'
+}).addTo(map);
+
     L.marker([-29.5495,28.1851]).addTo(map).bindPopup("<b>Lesotho 1993</b><br /><a href='http://www.borders-exploration-group.org.uk/expeditions/lesotho/'>Find out more...</>").openPopup();
     L.marker([-0.1500,-78.3500]).addTo(map).bindPopup("<b>Ecuador 1995</b><br /><a href='http://www.borders-exploration-group.org.uk/expeditions/ecuador/'>Find out more...</>").openPopup();
     L.marker([-0.4252,36.7517]).addTo(map).bindPopup("<b>Kenya 1997</b><br /><a href='http://www.borders-exploration-group.org.uk/expeditions/kenya/'>Find out more...</>").openPopup();
