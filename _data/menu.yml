@@ -3,8 +3,6 @@
 - text: EXPEDITIONS
   url: /expeditions/
   subitems:
-    - text: MALAWI 2019
-      url: /expeditions/malawi-2019/
     - text: BOLIVIA 2017
       url: /expeditions/bolivia/
     - text: AUSTRIA 2015
