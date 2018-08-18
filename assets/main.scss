@@ -3,6 +3,12 @@
 ---
 
 @import "minima";
+
+body {
+    background-image: url("logo-square.png");
+    background-repeat: no-repeat;
+}
+
 .site-header {
   border-top: none;
 margin-bottom: 60px;
