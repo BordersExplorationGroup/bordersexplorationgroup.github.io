@@ -18,25 +18,11 @@ email: enquiries@borders-exploration-group.org.uk
 description: "Borders Exploration Group is a volunteer-run charity run based in the Scottish Borders. Started in 1991, BEG runs annual international youth expeditions."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bordersexplorationgroup.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-# github_username:  jekyll
+
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-sitemap
-
 google_analytics: UA-1089638-5
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
