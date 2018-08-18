@@ -5,9 +5,6 @@ The [Borders Exploration Group website](https://www.borders-exploration-group.or
 Planned improvements for this site:
 * Tidy every page
 * Rewrite documentation page
-* Add in Google Fonts for H1
-* Add in content from old sidebar
-* Add the BEG logo
 * Replace site base URL
 * Set up email redirects at 1&1
 * Change DNS to create custom domain
@@ -15,3 +12,4 @@ Planned improvements for this site:
 * Clear out unlinked files
 * Delete old site and cancel hosting
 * Change navigation from absolute positions to relative (to remove forced top spacing)
+* Remove cross-site scripted content (Mailchimp homepage signup, Leaflet (footer) and Facebook embed on homepage)
