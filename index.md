@@ -26,3 +26,6 @@ title: Borders Exploration Group
 </div>
 
 <!--End mc_embed_signup-->
+
+
+<div class="fb-page" data-href="https://www.facebook.com/BordersExplorationGroup/" data-tabs="timeline, events." data-width="500px" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/BordersExplorationGroup/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/BordersExplorationGroup/">Borders Exploration Group</a></blockquote></div>
