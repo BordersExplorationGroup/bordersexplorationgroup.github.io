@@ -9,6 +9,7 @@ The current list of planned improvements for this site:
 * Add in Google Fonts for H1
 * Add in content from old sidebar
 * Add the BEG logo
+* Replace site base URL
 * Change DNS to create custom domain
 * Verify WMT
 * Clear out unlinked files

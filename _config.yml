@@ -17,7 +17,7 @@ title: "Borders Exploration Group"
 email: enquiries@borders-exploration-group.org.uk
 description: "Borders Exploration Group is a volunteer-run charity run based in the Scottish Borders. Started in 1991, BEG runs annual international youth expeditions."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.borders-exploration-group.org.uk" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://bordersexplorationgroup.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
