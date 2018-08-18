@@ -11,4 +11,4 @@ Planned improvements for this site:
 * Clear out unlinked files
 * Delete old site and cancel hosting
 * Change navigation from absolute positions to relative (to remove forced top spacing)
-* Remove cross-site scripted content (Mailchimp homepage signup, Leaflet (footer) and Facebook embed on homepage)
+* Remove cross-site scripted content (Leaflet (footer) )
