@@ -3,6 +3,11 @@ layout: home
 title: Borders Exploration Group
 ---
 <p>
+Update: 25th March 2019
+<br /><br />
+At the Emergency General Meeting the decision was taken to disolve Borders Exploration Group. You can read the <a href="{{ site.baseurl }}/assets/egm-minutes-2019-03-25.docx">minutes and </a> and <a href="{{ site.baseurl }}/assets/dissolution-of-beg.docx">dissolution proposal</a> here. Members who have paid their 2019 membership will be refunded and, as per the minutes, all equipment and monies will be donated to worthy charites and causes. A celebration of BEG will take place on the 24th of August to climb Ruberslaw. 
+</p>
+<p>
 Update: 18th Feb 2019
 <br /><br />
 Dear Members & Friends,
