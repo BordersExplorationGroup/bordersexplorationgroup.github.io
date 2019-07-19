@@ -4,12 +4,13 @@ The [Borders Exploration Group website](https://www.borders-exploration-group.or
 
 Planned improvements for this site:
 * Rewrite homepage text
-* Broken link check
-* Clear out unlinked files
-* Change navigation from absolute positions to relative (to remove forced top spacing)
-* Delete Flickr and move all images to GitHub with a slideshow then delete Flickr
-* Remove Google Photos slideshows and move all slides/photosets to GitHub with slideshows
+* Broken link check - SF
+* Delete Flickr and move all images to GitHub with a slideshow then delete Flickr - SF for Flickr URLs
 
-Remaining actions for webmaster:
+Blocked:
 * After final event in 2019 - deletion of Mailchimp account
 * Deletion of https://www.borders-exploration-group.org.uk/ domain name by 2020-08-25
+
+Won't do:
+* Change navigation from absolute positions to relative (to remove forced top spacing)
+
