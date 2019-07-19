@@ -8,3 +8,7 @@ Planned improvements for this site:
 * Change navigation from absolute positions to relative (to remove forced top spacing)
 * Delete Flickr and move all images to GitHub with a slideshow then delete Flickr
 * Remove Google Photos slideshows and move all slides/photosets to GitHub with slideshows
+
+Remaining actions for webmaster:
+* After final event in 2019 - deletion of Mailchimp account
+* Deletion of https://www.borders-exploration-group.org.uk/ domain name by 2020-08-25
