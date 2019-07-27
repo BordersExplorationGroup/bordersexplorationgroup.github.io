@@ -1,0 +1,1 @@
+With BEG being wrapped up I have exported all photos from Flickr - there are just over a thousand image files. In addition to this the old Flickr metadata (saying which each image was identified as on Flickr and which albums it belonged to) is also included, allowing anyone in the future to recreate these slideshows or galleries.  
